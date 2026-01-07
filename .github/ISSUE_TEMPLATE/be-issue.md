@@ -1,7 +1,7 @@
 ---
 name: BE Issue
 about: "[FEAT]"
-title: ''
+title: "[FEAT]"
 labels: ''
 assignees: ''
 
